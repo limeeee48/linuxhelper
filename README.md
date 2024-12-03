@@ -8,8 +8,6 @@ linuxhelper is a simple bash tool you can use it to get more info about tools ea
 
 
 ```
-
 apt-get install -y mousepad 
-
 ```
 
